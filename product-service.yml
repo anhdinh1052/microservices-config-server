@@ -7,4 +7,4 @@ spring:
       uri: mongodb://localhost:27017/product-service
 
 test:
-  name: 123123
+  name: dasda
