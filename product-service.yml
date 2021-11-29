@@ -1,2 +1,7 @@
-test:
-  name: test12312
+server:
+  port: 8082
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27018/product-service
