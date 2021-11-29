@@ -7,4 +7,4 @@ spring:
       uri: mongodb://localhost:27017/product-service
 
 test:
-  name: test123dfasdfasdf
+  name: ditmemay
